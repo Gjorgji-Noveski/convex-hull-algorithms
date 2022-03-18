@@ -1,9 +1,10 @@
 import matplotlib.pyplot as plt
 
-# The format of the .txt file is at follows:
+# The format of the <algorithm>_hull .txt files is at follows:
 # first line represents how many points are in total (n)
 # after the first line, the next (n) lines all represent the Points with their x,y coordinates
 # after the (n) lines each lines represents a point on the convex hull
+
 jarvis_march_running_time = r'jarvis_time.txt'
 graham_scan_running_time = r'graham_time.txt'
 
