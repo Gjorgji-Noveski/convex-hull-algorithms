@@ -7,8 +7,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <chrono>
-#include <ctype.h>
 using namespace std;
 int range;
 class Point{
